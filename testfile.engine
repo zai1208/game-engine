@@ -3,5 +3,5 @@ size = static(1920,1080)
 [/config]
 
 [overlay]
-button(type = trigger, rect = )
+button(type = trigger, rect = (0, 0, 100, 100));
 [/overlay]
