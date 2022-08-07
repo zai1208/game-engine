@@ -1,5 +1,5 @@
 [config]
-size = static(1920,1080)
+size = static(1920,1080);
 [/config]
 
 [overlay]
