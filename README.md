@@ -1,3 +1,3 @@
 # Game Engine
 ## The next Scratch.
-### but more powerful and simpler
+### but more powerful and simple
