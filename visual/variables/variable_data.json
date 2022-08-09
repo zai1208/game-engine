@@ -1,0 +1,16 @@
+{
+    "var_types" : {
+        "Integer" : {
+            "Description" : "A Number that is not a 'Real' number (Does not contain a decimal point)"
+        },
+
+        "String": {
+            "Description" : "A sequence of characters"
+        },
+
+        "Float" : {
+            "Description" : "A real number (Contains a decimal point)"
+        }
+
+    }
+}
