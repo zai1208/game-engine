@@ -1,2 +1,2 @@
-# Game Engine
-## The next Scratch.
+# EZengine
+## The next Scratch. Focusing on power and simplicity.
